@@ -3,6 +3,7 @@
 ```
 > wdir <- "C:/Users/batagelj/work/Tomo"
 > setwd(wdir)
+> T <- read.csv("WA.txt",colClasses=c("character"))
 > AId <- factor(trimws(T$AVTOR))
 > aId <- levels(AId)
 > WId <- factor(trimws(T$LIST.ID))
