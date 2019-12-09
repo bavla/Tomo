@@ -7,5 +7,6 @@
 > aId <- levels(AId)
 > WId <- factor(trimws(T$LIST.ID))
 > wId <- levels(WId)
-
+> T <- read.csv("AI.txt",colClasses=c("character"))
+> Encoding(T$ime) <- "UTF-8"
 ```
