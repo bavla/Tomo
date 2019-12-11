@@ -242,5 +242,75 @@ C2
 1-"1.00.00"; 2-"1.01.00"; 3-"1.01.01"; 4-"1.01.02"; 5-"1.01.03"; ... ; 178-"7.02.00"; 179-"NA.NA.NA"; 
 ```
  
+## Converting the data into Pajek files / essential code
+
+```
+> wdir <- "C:/Users/batagelj/work/Tomo"
+> setwd(wdir)
+> library(stringr)
+> source("https://raw.githubusercontent.com/bavla/Rnet/master/R/Pajek.R")
+
+> X <- read.csv("WA.txt",colClasses=c("character"))
+> AId <- factor(trimws(X$AVTOR))
+> aId <- levels(AId)
+> WId <- factor(trimws(X$LIST.ID))
+> wId <- levels(WId)
+> T <- read.csv("AI.txt",colClasses=c("character"))
+> Encoding(T$ime) <- "UTF-8"
+
+> Ime <- List()
+> Ime[T$koda] <- str_to_title(trimws(T$ime))
+> Anames <- as.character(Ime[aId])
+> levels(AId) <- Anames
+> uv2net(WId,AId,Net="WA.net",twomode=TRUE)
+
+> Z <- read.csv("AF.txt",colClasses=c("character"))
+> mZ0 <- substr(Z$POD1,1,1)
+> mZ1 <- substr(Z$POD1,1,4)
+> iz <- factor(Z$MSTID,levels=aId)
+
+> ANa <- list()
+> ANa[aId] <- 0
+> mz0 <- factor(mZ0)
+> jz0 <- as.integer(mz0)
+> jz <- as.integer(iz)
+
+> nina <- which(!is.na(jz))
+> jza <- jz[nina]
+> jz0a <- jz0[nina]
+> ANa[jza] <- jz0a
+> C0 <- as.integer(ANa)
+> vector2clu(C0,"C0.clu") 
+
+> mz1 <- factor(mZ1)
+> jz1 <- as.integer(mz1)
+> jz1a <- jz1[nina]
+> ANa[jza] <- jz1a
+> C1 <- as.integer(ANa)
+> vector2clu(C1,"C1.clu")
+
+> mz2 <- factor(Z$POD1)
+> jz2 <- as.integer(mz2)
+> jz2a <- jz2[nina]
+> ANa[jza] <- jz2a
+> C2 <- as.integer(ANa)
+> vector2clu(C2,"C2.clu")
+
+> t2o <- rev(sort(table(C2)))
+> t2o[1:20]
+C2
+   0  111    7    2  114  116  113    3  179    6  118   73  156  110    5    4  115  158    8   28 
+3056   77   71   67   65   64   62   61   58   55   52   51   43   43   41   37   35   34   34   32 
+> L0 <- levels(mz0)
+> for(i in 1:length(L0)) cat(i,'-"',L0[i],'"; ',sep=""); cat("\n") 
+1-"1"; 2-"2"; 3-"3"; 4-"4"; 5-"5"; 6-"6"; 7-"7"; 8-"N"; 
+> L1 <- levels(mz1)
+> for(i in 1:length(L1)) cat(i,'-"',L1[i],'"; ',sep=""); cat("\n") 
+1-"1.00"; 2-"1.01"; 3-"1.02"; 4-"1.03"; 5-"1.04"; ... ; 67-"7.02"; 68-"NA.N"; 
+> L2 <- levels(mz2)
+> for(i in 1:length(L2)) cat(i,'-"',L2[i],'"; ',sep=""); cat("\n") 
+1-"1.00.00"; 2-"1.01.00"; 3-"1.01.01"; 4-"1.01.02"; 5-"1.01.03"; ... ; 178-"7.02.00"; 179-"NA.NA.NA"; 
+```
+ 
 
 
