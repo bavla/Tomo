@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Title: 10. Cut10 (205) -->
+<!-- Creator: Pajek 5.07: http://mrvar.fdv.uni-lj.si/pajek -->
+<!-- CreationDate: 01-01-2020, 16:18:47 -->
+<svg xml:space="preserve" viewBox="0 0 948 697" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape">
+<title>10. Cut10 (205)</title>
+<g inkscape:groupmode="layer" id="PajekSig" inkscape:label="PajekSignature">
+<g transform="translate(3 679)">
+<g transform="scale(0.1)">
+<g transform="matrix(1 0 0 -1 0 96)">
+<path d="M   7.67  49.98 L  31.76  72.76 L  46.91  78.63
+         L  57.23  80.49 M  72.86  65.23 L  65.73  83.25
+         L  57.06  75.49 L  56.75  68.65 M  76.27  68.03
+         L  75.65  84.50 L  93.92  91.02 L 107.24  74.87
+         M  80.29  67.72 L  89.28  84.81 L 104.77  81.70
+         L 116.23  73.31 L 121.18  59.33 M  56.75  81.08
+         L  71.31  64.30"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  86.18  70.21 L  91.45  73.00 L  95.78  69.58
+         M  91.14  60.88 L  96.09  62.75 L  98.26  59.33"
+         style="fill:none; stroke:saddlebrown; stroke-width:1.5;"/>
+<path d="M  81.07  49.08 L  87.81  49.08 L  93.30  54.38
+         L  93.30  60.88 L  93.30  67.39 L  87.81  72.69
+         L  81.07  72.69 L  74.33  72.69 L  68.83  67.39
+         L  68.83  60.88 L  68.83  54.38 L  74.33  49.08
+         L  81.07  49.08 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;"/>
+<path d="M  54.63  37.53 L  68.53  43.56 L  75.39  55.85
+         L  69.90  65.35 L  64.41  72.86 L  48.60  74.06
+         L  34.71  68.04 L  20.81  55.02 L  15.95  40.72
+         L  17.44  33.22 L  24.92  28.72 L  40.73  30.51
+         L  54.63  37.53 z"
+         style="fill:maroon; stroke:saddlebrown; stroke-width:1;" />
+<path d="M  77.82  50.63 L 103.84  59.33 L 131.10  43.80
+         L 139.46  27.95 L 139.15  15.83 M  35.99   5.27
+         L  47.15  32.92 L  61.71  50.01 L  70.07  46.90
+         L  82.77  45.04 L  83.39  27.02 L  65.42  12.11
+         M  68.52  50.63 L  91.14  49.39 L 103.53  43.17
+         L 117.16  22.67 L 115.30   8.38"
+         style="fill:none; stroke:saddlebrown; stroke-width:5;"/>
+<path d="M  41.57  54.98 L  60.16  64.61 M  52.41  66.17
+         L  57.99  57.47"
+         style="fill:none; stroke:white; stroke-width:5;"/>
+</g>
+</g>
+<animateMotion dur="20s" path="M3 0 L930 0" begin="120s" fill="freeze"/>
+</g>
+<g transform="translate(3 679)">
+<g transform="scale(0.1)">
+<text x="5" y="140" style="font-family:Brush Script MT;font-size:75px;fill:green;">Pajek</text>
+</g>
+<animateMotion dur="0.1s" path="M3 0 L930 0" begin="120s" fill="freeze"/>
+</g>
+</g>      <!-- Layer Signature -->
+
+<g inkscape:groupmode="layer" id="PajekNet" inkscape:label="PajekNetwork">
+
+<!-- Edge:     1  114 -->
+<line x1="724.00" y1="616.07" x2="724.00" y2="662.15" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:     2   51 -->
+<line x1="599.65" y1="140.47" x2="560.73" y2="121.17" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:     3   32 -->
+<line x1="645.67" y1="116.15" x2="659.55" y2="81.97" style="stroke-width:2.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:     3   40 -->
+<line x1="645.67" y1="116.15" x2="627.16" y2="107.73" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:     3   42 -->
+<line x1="645.67" y1="116.15" x2="642.64" y2="162.76" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:     4   10 -->
+<line x1="47.60" y1="388.50" x2="97.99" y2="416.89" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   38 -->
+<line x1="266.99" y1="100.47" x2="242.89" y2="118.35" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5   93 -->
+<line x1="266.99" y1="100.47" x2="266.50" y2="63.63" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5  190 -->
+<line x1="266.99" y1="100.47" x2="239.16" y2="100.06" style="stroke-width:2.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5  192 -->
+<line x1="266.99" y1="100.47" x2="290.33" y2="119.30" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:     5  194 -->
+<line x1="266.99" y1="100.47" x2="266.17" y2="81.68" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:     6  186 -->
+<line x1="222.98" y1="616.07" x2="222.98" y2="662.15" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:     7   49 -->
+<line x1="555.07" y1="75.79" x2="550.03" y2="35.26" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:     7   51 -->
+<line x1="555.07" y1="75.79" x2="560.73" y2="121.17" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:     8   36 -->
+<line x1="683.73" y1="476.88" x2="629.94" y2="536.38" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:     8   78 -->
+<line x1="683.73" y1="476.88" x2="576.14" y2="476.88" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:     9   19 -->
+<line x1="755.76" y1="235.61" x2="701.85" y2="271.60" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:     9   21 -->
+<line x1="755.76" y1="235.61" x2="700.83" y2="205.06" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:     9   57 -->
+<line x1="755.76" y1="235.61" x2="772.03" y2="297.78" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    10   45 -->
+<line x1="97.99" y1="416.89" x2="85.11" y2="459.26" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    10   98 -->
+<line x1="97.99" y1="416.89" x2="161.11" y2="402.71" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    11   12 -->
+<line x1="200.44" y1="289.71" x2="214.19" y2="336.57" style="stroke-width:2.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    12   91 -->
+<line x1="214.19" y1="336.57" x2="254.86" y2="348.42" style="stroke-width:3.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    12   94 -->
+<line x1="214.19" y1="336.57" x2="188.18" y2="368.68" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    13   27 -->
+<line x1="779.86" y1="388.19" x2="731.96" y2="447.69" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    14   26 -->
+<line x1="97.83" y1="103.75" x2="129.28" y2="147.65" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:    14   66 -->
+<line x1="97.83" y1="103.75" x2="83.71" y2="55.85" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    14  143 -->
+<line x1="97.83" y1="103.75" x2="67.09" y2="84.40" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15   24 -->
+<line x1="872.71" y1="78.09" x2="876.60" y2="34.85" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15   72 -->
+<line x1="872.71" y1="78.09" x2="841.80" y2="96.74" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15   73 -->
+<line x1="872.71" y1="78.09" x2="886.51" y2="125.02" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15   87 -->
+<line x1="872.71" y1="78.09" x2="852.17" y2="123.26" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    15   95 -->
+<line x1="872.71" y1="78.09" x2="900.60" y2="99.81" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:    16   56 -->
+<line x1="154.99" y1="476.88" x2="101.19" y2="536.38" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:    16   75 -->
+<line x1="154.99" y1="476.88" x2="47.40" y2="476.88" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    17  104 -->
+<line x1="473.49" y1="616.07" x2="473.49" y2="662.15" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18   71 -->
+<line x1="348.61" y1="333.94" x2="318.28" y2="359.93" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    18   74 -->
+<line x1="348.61" y1="333.94" x2="381.22" y2="310.83" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19   21 -->
+<line x1="701.85" y1="271.60" x2="700.83" y2="205.06" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    19   57 -->
+<line x1="701.85" y1="271.60" x2="772.03" y2="297.78" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    20   70 -->
+<line x1="481.49" y1="249.43" x2="527.03" y2="300.02" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    20   89 -->
+<line x1="481.49" y1="249.43" x2="505.93" y2="278.22" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    20  109 -->
+<line x1="481.49" y1="249.43" x2="443.48" y2="218.15" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22   41 -->
+<line x1="446.68" y1="136.67" x2="418.88" y2="173.19" style="stroke-width:2.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22   61 -->
+<line x1="446.68" y1="136.67" x2="466.38" y2="105.72" style="stroke-width:3.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22   63 -->
+<line x1="446.68" y1="136.67" x2="420.86" y2="147.65" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22   92 -->
+<line x1="446.68" y1="136.67" x2="478.26" y2="160.79" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22  124 -->
+<line x1="446.68" y1="136.67" x2="452.75" y2="175.65" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22  165 -->
+<line x1="446.68" y1="136.67" x2="418.50" y2="122.04" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22  171 -->
+<line x1="446.68" y1="136.67" x2="430.76" y2="102.28" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    22  202 -->
+<line x1="446.68" y1="136.67" x2="475.96" y2="127.86" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    23   29 -->
+<line x1="678.50" y1="82.39" x2="697.55" y2="78.09" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:    23   32 -->
+<line x1="678.50" y1="82.39" x2="659.55" y2="81.97" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    25   43 -->
+<line x1="222.98" y1="553.36" x2="222.98" y2="599.43" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26   47 -->
+<line x1="129.28" y1="147.65" x2="95.17" y2="144.65" style="stroke-width:1.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26   54 -->
+<line x1="129.28" y1="147.65" x2="155.84" y2="123.89" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26   55 -->
+<line x1="129.28" y1="147.65" x2="149.55" y2="147.90" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  100 -->
+<line x1="129.28" y1="147.65" x2="110.48" y2="160.61" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  108 -->
+<line x1="129.28" y1="147.65" x2="127.15" y2="204.70" style="stroke-width:3.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  115 -->
+<line x1="129.28" y1="147.65" x2="131.15" y2="84.50" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  116 -->
+<line x1="129.28" y1="147.65" x2="154.74" y2="97.15" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  129 -->
+<line x1="129.28" y1="147.65" x2="100.51" y2="182.37" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  134 -->
+<line x1="129.28" y1="147.65" x2="159.64" y2="185.65" style="stroke-width:2.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  164 -->
+<line x1="129.28" y1="147.65" x2="118.80" y2="105.00" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  187 -->
+<line x1="129.28" y1="147.65" x2="106.77" y2="127.42" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    26  204 -->
+<line x1="129.28" y1="147.65" x2="138.20" y2="110.36" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    27  103 -->
+<line x1="731.96" y1="447.69" x2="684.05" y2="388.19" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    28   32 -->
+<line x1="650.89" y1="38.12" x2="659.55" y2="81.97" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    29  120 -->
+<line x1="697.55" y1="78.09" x2="705.67" y2="123.90" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    29  141 -->
+<line x1="697.55" y1="78.09" x2="712.47" y2="40.41" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    29  195 -->
+<line x1="697.55" y1="78.09" x2="713.55" y2="71.56" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    30   86 -->
+<line x1="348.24" y1="553.36" x2="348.24" y2="599.43" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    31  200 -->
+<line x1="473.49" y1="553.36" x2="473.49" y2="599.43" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    33   69 -->
+<line x1="598.75" y1="553.36" x2="598.75" y2="599.43" style="stroke-width:2.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    34   51 -->
+<line x1="551.90" y1="163.06" x2="560.73" y2="121.17" style="stroke-width:2.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    34   58 -->
+<line x1="551.90" y1="163.06" x2="528.67" y2="150.20" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    35  172 -->
+<line x1="724.00" y1="553.36" x2="724.00" y2="599.43" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    36   78 -->
+<line x1="629.94" y1="536.38" x2="576.14" y2="476.88" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    37   79 -->
+<line x1="899.82" y1="388.19" x2="851.91" y2="447.69" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    37  136 -->
+<line x1="899.82" y1="388.19" x2="804.01" y2="388.19" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    39   76 -->
+<line x1="882.39" y1="209.70" x2="844.06" y2="241.45" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    44   85 -->
+<line x1="752.69" y1="142.42" x2="778.57" y2="94.14" style="stroke-width:3.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    44  101 -->
+<line x1="752.69" y1="142.42" x2="776.92" y2="156.27" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    46   90 -->
+<line x1="186.33" y1="388.94" x2="299.40" y2="458.82" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    46   97 -->
+<line x1="186.33" y1="388.94" x2="263.67" y2="436.74" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    46  107 -->
+<line x1="186.33" y1="388.94" x2="227.97" y2="414.68" style="stroke-width:2.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    48   51 -->
+<line x1="517.08" y1="123.16" x2="560.73" y2="121.17" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    50   62 -->
+<line x1="97.73" y1="616.07" x2="97.73" y2="662.15" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    51   58 -->
+<line x1="560.73" y1="121.17" x2="528.67" y2="150.20" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    51  188 -->
+<line x1="560.73" y1="121.17" x2="527.33" y2="97.24" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    51  189 -->
+<line x1="560.73" y1="121.17" x2="603.25" y2="112.22" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    51  193 -->
+<line x1="560.73" y1="121.17" x2="587.22" y2="89.58" style="stroke-width:2.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    51  203 -->
+<line x1="560.73" y1="121.17" x2="578.27" y2="160.68" style="stroke-width:2.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    52   67 -->
+<line x1="348.24" y1="616.07" x2="348.24" y2="662.15" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53   65 -->
+<line x1="313.99" y1="143.98" x2="321.73" y2="175.27" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53   88 -->
+<line x1="313.99" y1="143.98" x2="285.95" y2="160.79" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  111 -->
+<line x1="313.99" y1="143.98" x2="315.56" y2="118.87" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  117 -->
+<line x1="313.99" y1="143.98" x2="346.57" y2="140.28" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  125 -->
+<line x1="313.99" y1="143.98" x2="296.68" y2="178.62" style="stroke-width:3.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  127 -->
+<line x1="313.99" y1="143.98" x2="334.36" y2="158.32" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  133 -->
+<line x1="313.99" y1="143.98" x2="264.50" y2="141.03" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  135 -->
+<line x1="313.99" y1="143.98" x2="330.70" y2="116.27" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  148 -->
+<line x1="313.99" y1="143.98" x2="334.04" y2="132.48" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:    53  192 -->
+<line x1="313.99" y1="143.98" x2="290.33" y2="119.30" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    59  112 -->
+<line x1="419.36" y1="476.88" x2="365.56" y2="536.38" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    59  122 -->
+<line x1="419.36" y1="476.88" x2="311.77" y2="476.88" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  118 -->
+<line x1="466.38" y1="105.72" x2="492.43" y2="93.76" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  145 -->
+<line x1="466.38" y1="105.72" x2="469.94" y2="69.08" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    61  202 -->
+<line x1="466.38" y1="105.72" x2="475.96" y2="127.86" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:    63  131 -->
+<line x1="420.86" y1="147.65" x2="397.46" y2="157.08" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    64   68 -->
+<line x1="551.54" y1="476.88" x2="497.75" y2="536.38" style="stroke-width:2.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65  102 -->
+<line x1="321.73" y1="175.27" x2="332.81" y2="202.36" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    65  125 -->
+<line x1="321.73" y1="175.27" x2="296.68" y2="178.62" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    66  143 -->
+<line x1="83.71" y1="55.85" x2="67.09" y2="84.40" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    72   73 -->
+<line x1="841.80" y1="96.74" x2="886.51" y2="125.02" style="stroke-width:2.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    72   87 -->
+<line x1="841.80" y1="96.74" x2="852.17" y2="123.26" style="stroke-width:1.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    72   95 -->
+<line x1="841.80" y1="96.74" x2="900.60" y2="99.81" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    73   87 -->
+<line x1="886.51" y1="125.02" x2="852.17" y2="123.26" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    73   95 -->
+<line x1="886.51" y1="125.02" x2="900.60" y2="99.81" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    74   83 -->
+<line x1="381.22" y1="310.83" x2="414.97" y2="289.50" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    76  142 -->
+<line x1="844.06" y1="241.45" x2="793.39" y2="262.87" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    76  147 -->
+<line x1="844.06" y1="241.45" x2="864.58" y2="280.49" style="stroke-width:2.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    77  145 -->
+<line x1="476.01" y1="35.48" x2="469.94" y2="69.08" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    79  136 -->
+<line x1="851.91" y1="447.69" x2="804.01" y2="388.19" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    80   81 -->
+<line x1="600.95" y1="247.54" x2="629.56" y2="282.70" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    80  163 -->
+<line x1="600.95" y1="247.54" x2="622.24" y2="211.85" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    80  199 -->
+<line x1="600.95" y1="247.54" x2="533.45" y2="222.17" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    60   82 -->
+<line x1="598.75" y1="616.07" x2="598.75" y2="662.15" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    84  113 -->
+<line x1="749.99" y1="476.55" x2="749.99" y2="522.62" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  101 -->
+<line x1="778.57" y1="94.14" x2="776.92" y2="156.27" style="stroke-width:2.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  121 -->
+<line x1="778.57" y1="94.14" x2="818.78" y2="106.26" style="stroke-width:7.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  144 -->
+<line x1="778.57" y1="94.14" x2="806.27" y2="140.97" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  150 -->
+<line x1="778.57" y1="94.14" x2="742.83" y2="62.12" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  151 -->
+<line x1="778.57" y1="94.14" x2="794.29" y2="35.99" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  159 -->
+<line x1="778.57" y1="94.14" x2="765.35" y2="35.20" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  166 -->
+<line x1="778.57" y1="94.14" x2="816.06" y2="67.08" style="stroke-width:1.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:    85  170 -->
+<line x1="778.57" y1="94.14" x2="737.18" y2="104.29" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    87   95 -->
+<line x1="852.17" y1="123.26" x2="900.60" y2="99.81" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    88  125 -->
+<line x1="285.95" y1="160.79" x2="296.68" y2="178.62" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    90  107 -->
+<line x1="299.40" y1="458.82" x2="227.97" y2="414.68" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:    91  119 -->
+<line x1="254.86" y1="348.42" x2="293.61" y2="360.00" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:    93  196 -->
+<line x1="266.50" y1="63.63" x2="238.82" y2="53.52" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    93  197 -->
+<line x1="266.50" y1="63.63" x2="260.95" y2="35.71" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:    93  198 -->
+<line x1="266.50" y1="63.63" x2="295.15" y2="49.58" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:    96  168 -->
+<line x1="857.92" y1="476.55" x2="857.92" y2="522.62" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:    99  139 -->
+<line x1="420.00" y1="388.19" x2="372.10" y2="447.69" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    99  140 -->
+<line x1="420.00" y1="388.19" x2="324.19" y2="388.19" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   102  160 -->
+<line x1="332.81" y1="202.36" x2="341.34" y2="228.21" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:   105  158 -->
+<line x1="849.26" y1="553.36" x2="849.26" y2="599.43" style="stroke-width:1.90;stroke:rgb(0,112,145)"/>
+<!-- Edge:   106  162 -->
+<line x1="97.73" y1="553.36" x2="97.73" y2="599.43" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:   108  129 -->
+<line x1="127.15" y1="204.70" x2="100.51" y2="182.37" style="stroke-width:2.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   108  134 -->
+<line x1="127.15" y1="204.70" x2="159.64" y2="185.65" style="stroke-width:6.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:   108  152 -->
+<line x1="127.15" y1="204.70" x2="109.63" y2="257.87" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:   108  155 -->
+<line x1="127.15" y1="204.70" x2="122.46" y2="248.77" style="stroke-width:2.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:   108  156 -->
+<line x1="127.15" y1="204.70" x2="143.47" y2="246.81" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:   108  167 -->
+<line x1="127.15" y1="204.70" x2="94.44" y2="217.83" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   108  174 -->
+<line x1="127.15" y1="204.70" x2="99.25" y2="239.96" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   108  176 -->
+<line x1="127.15" y1="204.70" x2="133.59" y2="264.66" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   110  128 -->
+<line x1="287.17" y1="476.88" x2="233.38" y2="536.38" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   110  161 -->
+<line x1="287.17" y1="476.88" x2="179.59" y2="476.88" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:   115  175 -->
+<line x1="131.15" y1="84.50" x2="133.84" y2="30.42" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   116  146 -->
+<line x1="154.74" y1="97.15" x2="175.33" y2="53.38" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   117  126 -->
+<line x1="346.57" y1="140.28" x2="372.41" y2="130.89" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   121  144 -->
+<line x1="818.78" y1="106.26" x2="806.27" y2="140.97" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   121  166 -->
+<line x1="818.78" y1="106.26" x2="816.06" y2="67.08" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   123  169 -->
+<line x1="539.96" y1="388.19" x2="492.05" y2="447.69" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   123  177 -->
+<line x1="539.96" y1="388.19" x2="444.15" y2="388.19" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   125  173 -->
+<line x1="296.68" y1="178.62" x2="284.97" y2="197.99" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:   129  132 -->
+<line x1="100.51" y1="182.37" x2="62.56" y2="189.96" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:   129  167 -->
+<line x1="100.51" y1="182.37" x2="94.44" y2="217.83" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:   130  178 -->
+<line x1="80.78" y1="289.71" x2="47.80" y2="330.70" style="stroke-width:2.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   130  179 -->
+<line x1="80.78" y1="289.71" x2="157.87" y2="346.47" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   130  180 -->
+<line x1="80.78" y1="289.71" x2="144.16" y2="294.33" style="stroke-width:1.80;stroke:rgb(0,112,145)"/>
+<!-- Edge:   132  138 -->
+<line x1="62.56" y1="189.96" x2="31.87" y2="204.45" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  153 -->
+<line x1="159.64" y1="185.65" x2="185.68" y2="219.09" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  154 -->
+<line x1="159.64" y1="185.65" x2="196.35" y2="197.62" style="stroke-width:2.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  157 -->
+<line x1="159.64" y1="185.65" x2="178.17" y2="237.92" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  181 -->
+<line x1="159.64" y1="185.65" x2="185.82" y2="179.54" style="stroke-width:5.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  182 -->
+<line x1="159.64" y1="185.65" x2="165.09" y2="233.97" style="stroke-width:1.10;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  183 -->
+<line x1="159.64" y1="185.65" x2="185.39" y2="143.63" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:   134  184 -->
+<line x1="159.64" y1="185.65" x2="196.64" y2="164.05" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   137  149 -->
+<line x1="659.91" y1="388.19" x2="612.00" y2="447.69" style="stroke-width:1.40;stroke:rgb(0,112,145)"/>
+<!-- Edge:   137  185 -->
+<line x1="659.91" y1="388.19" x2="564.10" y2="388.19" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:   141  195 -->
+<line x1="712.47" y1="40.41" x2="713.55" y2="71.56" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   153  154 -->
+<line x1="185.68" y1="219.09" x2="196.35" y2="197.62" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:   178  179 -->
+<line x1="47.80" y1="330.70" x2="157.87" y2="346.47" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   178  180 -->
+<line x1="47.80" y1="330.70" x2="144.16" y2="294.33" style="stroke-width:1.00;stroke:rgb(0,112,145)"/>
+<!-- Edge:   183  184 -->
+<line x1="185.39" y1="143.63" x2="196.64" y2="164.05" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   130  191 -->
+<line x1="80.78" y1="289.71" x2="95.73" y2="370.19" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:   180  191 -->
+<line x1="144.16" y1="294.33" x2="95.73" y2="370.19" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   163  199 -->
+<line x1="622.24" y1="211.85" x2="533.45" y2="222.17" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    29  201 -->
+<line x1="697.55" y1="78.09" x2="700.65" y2="35.56" style="stroke-width:1.70;stroke:rgb(0,112,145)"/>
+<!-- Edge:   141  201 -->
+<line x1="712.47" y1="40.41" x2="700.65" y2="35.56" style="stroke-width:1.20;stroke:rgb(0,112,145)"/>
+<!-- Edge:   195  201 -->
+<line x1="713.55" y1="71.56" x2="700.65" y2="35.56" style="stroke-width:1.60;stroke:rgb(0,112,145)"/>
+<!-- Edge:    34  203 -->
+<line x1="551.90" y1="163.06" x2="578.27" y2="160.68" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+<!-- Edge:    64  205 -->
+<line x1="551.54" y1="476.88" x2="443.96" y2="476.88" style="stroke-width:1.30;stroke:rgb(0,112,145)"/>
+<!-- Edge:    68  205 -->
+<line x1="497.75" y1="536.38" x2="443.96" y2="476.88" style="stroke-width:1.50;stroke:rgb(0,112,145)"/>
+
+<!-- Vertex:     1 -->
+<ellipse cx="724.00" cy="616.07" rx="3.91" ry="3.91" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(727.50 622.13)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Tasič Jurij Franc</text>
+</g></g>
+<!-- Vertex:     2 -->
+<ellipse cx="599.65" cy="140.47" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(603.15 146.53)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Zupan Jurij-Janez</text>
+</g></g>
+<!-- Vertex:     3 -->
+<ellipse cx="645.67" cy="116.15" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(649.17 122.21)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Radjavi Heydar</text>
+</g></g>
+<!-- Vertex:     4 -->
+<ellipse cx="47.60" cy="388.50" rx="3.91" ry="3.91" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(51.10 394.56)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Batagelj Vladimir</text>
+</g></g>
+<!-- Vertex:     5 -->
+<ellipse cx="266.99" cy="100.47" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(270.49 106.53)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Mohar Bojan</text>
+</g></g>
+<!-- Vertex:     6 -->
+<ellipse cx="222.98" cy="616.07" rx="3.91" ry="3.91" style="fill:rgb(255,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(226.48 622.13)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Petkovšek Marko</text>
+</g></g>
+<!-- Vertex:     7 -->
+<ellipse cx="555.07" cy="75.79" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(558.57 81.85)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Pisanski Tomaž</text>
+</g></g>
+<!-- Vertex:     8 -->
+<ellipse cx="683.73" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(255,99,33);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(687.23 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Matko Drago</text>
+</g></g>
+<!-- Vertex:     9 -->
+<ellipse cx="755.76" cy="235.61" rx="3.91" ry="3.91" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(759.26 241.67)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Slivnik Tomaž</text>
+</g></g>
+<!-- Vertex:    10 -->
+<ellipse cx="97.99" cy="416.89" rx="3.91" ry="3.91" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(101.49 422.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Ferligoj Anuška</text>
+</g></g>
+<!-- Vertex:    11 -->
+<ellipse cx="200.44" cy="289.71" rx="3.91" ry="3.91" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(203.94 295.77)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Malnič Aleksander</text>
+</g></g>
+<!-- Vertex:    12 -->
+<ellipse cx="214.19" cy="336.57" rx="3.91" ry="3.91" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(217.69 342.64)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Marušič Dragan</text>
+</g></g>
+<!-- Vertex:    13 -->
+<ellipse cx="779.86" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(30,249,163);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(783.36 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Bogataj Ludvik</text>
+</g></g>
+<!-- Vertex:    14 -->
+<ellipse cx="97.83" cy="103.75" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(101.33 109.81)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Cencelj Matija</text>
+</g></g>
+<!-- Vertex:    15 -->
+<ellipse cx="872.71" cy="78.09" rx="3.91" ry="3.91" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(876.21 84.15)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kozak Jernej</text>
+</g></g>
+<!-- Vertex:    16 -->
+<ellipse cx="154.99" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(158.49 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Žerovnik Janez</text>
+</g></g>
+<!-- Vertex:    17 -->
+<ellipse cx="473.49" cy="616.07" rx="3.91" ry="3.91" style="fill:rgb(173,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(476.99 622.13)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kononenko Igor</text>
+</g></g>
+<!-- Vertex:    18 -->
+<ellipse cx="348.61" cy="333.94" rx="3.91" ry="3.91" style="fill:rgb(204,255,178);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(352.11 340.00)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vukman Joso</text>
+</g></g>
+<!-- Vertex:    19 -->
+<ellipse cx="701.85" cy="271.60" rx="3.91" ry="3.91" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(705.35 277.66)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Iglič Aleš</text>
+</g></g>
+<!-- Vertex:    20 -->
+<ellipse cx="481.49" cy="249.43" rx="3.91" ry="3.91" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(484.99 255.49)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Leonardis Aleš</text>
+</g></g>
+<!-- Vertex:    21 -->
+<ellipse cx="700.83" cy="205.06" rx="3.91" ry="3.91" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(704.33 211.13)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kralj Iglič Veronika</text>
+</g></g>
+<!-- Vertex:    22 -->
+<ellipse cx="446.68" cy="136.67" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(450.18 142.73)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Klavžar Sandi</text>
+</g></g>
+<!-- Vertex:    23 -->
+<ellipse cx="678.50" cy="82.39" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(682.00 88.46)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Šemrl Peter</text>
+</g></g>
+<!-- Vertex:    24 -->
+<ellipse cx="876.60" cy="34.85" rx="3.91" ry="3.91" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(880.10 40.91)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Feng Yu-Yu</text>
+</g></g>
+<!-- Vertex:    25 -->
+<ellipse cx="222.98" cy="553.36" rx="3.91" ry="3.91" style="fill:rgb(0,112,145);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(226.48 559.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Blejec Andrej</text>
+</g></g>
+<!-- Vertex:    26 -->
+<ellipse cx="129.28" cy="147.65" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(132.78 153.71)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Repovš Dušan</text>
+</g></g>
+<!-- Vertex:    27 -->
+<ellipse cx="731.96" cy="447.69" rx="3.91" ry="3.91" style="fill:rgb(30,249,163);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(735.46 453.75)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Bogataj Marija</text>
+</g></g>
+<!-- Vertex:    28 -->
+<ellipse cx="650.89" cy="38.12" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(654.39 44.18)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Košir Tomaž</text>
+</g></g>
+<!-- Vertex:    29 -->
+<ellipse cx="697.55" cy="78.09" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(701.05 84.15)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Brešar Matej</text>
+</g></g>
+<!-- Vertex:    30 -->
+<ellipse cx="348.24" cy="553.36" rx="3.91" ry="3.91" style="fill:rgb(255,181,40);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(351.74 559.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Stare Janez</text>
+</g></g>
+<!-- Vertex:    31 -->
+<ellipse cx="473.49" cy="553.36" rx="3.91" ry="3.91" style="fill:rgb(255,10,155);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(476.99 559.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Krivec Rajmund</text>
+</g></g>
+<!-- Vertex:    32 -->
+<ellipse cx="659.55" cy="81.97" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(663.05 88.03)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Omladič Matjaž</text>
+</g></g>
+<!-- Vertex:    33 -->
+<ellipse cx="598.75" cy="553.36" rx="3.91" ry="3.91" style="fill:rgb(0,224,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(602.25 559.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kovač Milena</text>
+</g></g>
+<!-- Vertex:    34 -->
+<ellipse cx="551.90" cy="163.06" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(555.40 169.12)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Novič Marjana</text>
+</g></g>
+<!-- Vertex:    35 -->
+<ellipse cx="724.00" cy="553.36" rx="3.91" ry="3.91" style="fill:rgb(255,119,158);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(727.50 559.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Forstnerič Franc</text>
+</g></g>
+<!-- Vertex:    36 -->
+<ellipse cx="629.94" cy="536.38" rx="3.91" ry="3.91" style="fill:rgb(255,99,33);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(633.44 542.44)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Škrjanc Igor</text>
+</g></g>
+<!-- Vertex:    37 -->
+<ellipse cx="899.82" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(216,242,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(903.32 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Koroušić Seljak Barbara</text>
+</g></g>
+<!-- Vertex:    38 -->
+<ellipse cx="242.89" cy="118.35" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(246.39 124.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Juvan Martin</text>
+</g></g>
+<!-- Vertex:    39 -->
+<ellipse cx="882.39" cy="209.70" rx="3.91" ry="3.91" style="fill:rgb(216,255,79);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(885.89 215.76)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Robnik Marko</text>
+</g></g>
+<!-- Vertex:    40 -->
+<ellipse cx="627.16" cy="107.73" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(630.66 113.79)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Drnovšek Roman</text>
+</g></g>
+<!-- Vertex:    41 -->
+<ellipse cx="418.88" cy="173.19" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(422.38 179.26)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Imrich Wilfried</text>
+</g></g>
+<!-- Vertex:    42 -->
+<ellipse cx="642.64" cy="162.76" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(646.14 168.83)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Bernik Janez</text>
+</g></g>
+<!-- Vertex:    43 -->
+<ellipse cx="222.98" cy="599.43" rx="3.91" ry="3.91" style="fill:rgb(0,112,145);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(226.48 605.50)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Gruden Kristina</text>
+</g></g>
+<!-- Vertex:    44 -->
+<ellipse cx="752.69" cy="142.42" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(756.19 148.48)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Marhl Marko</text>
+</g></g>
+<!-- Vertex:    45 -->
+<ellipse cx="85.11" cy="459.26" rx="3.91" ry="3.91" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(88.61 465.33)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Doreian Patrick</text>
+</g></g>
+<!-- Vertex:    46 -->
+<ellipse cx="186.33" cy="388.94" rx="3.91" ry="3.91" style="fill:rgb(229,255,204);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(189.83 395.00)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Strle Franc</text>
+</g></g>
+<!-- Vertex:    47 -->
+<ellipse cx="95.17" cy="144.65" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(98.67 150.71)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Semenov Pavel</text>
+</g></g>
+<!-- Vertex:    48 -->
+<ellipse cx="517.08" cy="123.16" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(520.58 129.22)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Pompe Matevž</text>
+</g></g>
+<!-- Vertex:    49 -->
+<ellipse cx="550.03" cy="35.26" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(553.53 41.33)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Žitnik Arjana</text>
+</g></g>
+<!-- Vertex:    50 -->
+<ellipse cx="97.73" cy="616.07" rx="3.91" ry="3.91" style="fill:rgb(204,204,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(101.23 622.13)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Burger Helena</text>
+</g></g>
+<!-- Vertex:    51 -->
+<ellipse cx="560.73" cy="121.17" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(564.23 127.23)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Randić Milan</text>
+</g></g>
+<!-- Vertex:    52 -->
+<ellipse cx="348.24" cy="616.07" rx="3.91" ry="3.91" style="fill:rgb(89,221,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(351.74 622.13)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Festić Mejra</text>
+</g></g>
+<!-- Vertex:    53 -->
+<ellipse cx="313.99" cy="143.98" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(317.49 150.05)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Škrekovski Riste</text>
+</g></g>
+<!-- Vertex:    54 -->
+<ellipse cx="155.84" cy="123.89" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(159.34 129.96)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Ageev Sergej M.</text>
+</g></g>
+<!-- Vertex:    55 -->
+<ellipse cx="149.55" cy="147.90" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(153.05 153.97)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Muranov Yurij V.</text>
+</g></g>
+<!-- Vertex:    56 -->
+<ellipse cx="101.19" cy="536.38" rx="3.91" ry="3.91" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(104.69 542.44)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Zmazek Blaž</text>
+</g></g>
+<!-- Vertex:    57 -->
+<ellipse cx="772.03" cy="297.78" rx="3.91" ry="3.91" style="fill:rgb(140,35,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(775.53 303.84)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Bohinc Klemen</text>
+</g></g>
+<!-- Vertex:    58 -->
+<ellipse cx="528.67" cy="150.20" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(532.17 156.26)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vračko - Grobelšek Marjan</text>
+</g></g>
+<!-- Vertex:    59 -->
+<ellipse cx="419.36" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(255,217,188);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(422.86 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Bajec Marko</text>
+</g></g>
+<!-- Vertex:    60 -->
+<ellipse cx="598.75" cy="616.07" rx="3.91" ry="3.91" style="fill:rgb(219,147,112);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(602.25 622.13)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Dolžan David</text>
+</g></g>
+<!-- Vertex:    61 -->
+<ellipse cx="466.38" cy="105.72" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(469.88 111.78)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Brešar Boštjan</text>
+</g></g>
+<!-- Vertex:    62 -->
+<ellipse cx="97.73" cy="662.15" rx="3.91" ry="3.91" style="fill:rgb(204,204,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(101.23 668.21)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vidmar Gaj</text>
+</g></g>
+<!-- Vertex:    63 -->
+<ellipse cx="420.86" cy="147.65" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(424.36 153.72)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Žigert Pleteršek Petra</text>
+</g></g>
+<!-- Vertex:    64 -->
+<ellipse cx="551.54" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(204,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(555.04 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Dolinar Gregor</text>
+</g></g>
+<!-- Vertex:    65 -->
+<ellipse cx="321.73" cy="175.27" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(325.23 181.33)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Potočnik Primož</text>
+</g></g>
+<!-- Vertex:    66 -->
+<ellipse cx="83.71" cy="55.85" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(87.21 61.91)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vavpetič Aleš</text>
+</g></g>
+<!-- Vertex:    67 -->
+<ellipse cx="348.24" cy="662.15" rx="3.91" ry="3.91" style="fill:rgb(89,221,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(351.74 668.21)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kavkler Alenka</text>
+</g></g>
+<!-- Vertex:    68 -->
+<ellipse cx="497.75" cy="536.38" rx="3.91" ry="3.91" style="fill:rgb(204,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(501.25 542.44)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kuzma Bojan</text>
+</g></g>
+<!-- Vertex:    69 -->
+<ellipse cx="598.75" cy="599.43" rx="3.91" ry="3.91" style="fill:rgb(0,224,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(602.25 605.50)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Malovrh Špela</text>
+</g></g>
+<!-- Vertex:    70 -->
+<ellipse cx="527.03" cy="300.02" rx="3.91" ry="3.91" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(530.53 306.08)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Boben Marko</text>
+</g></g>
+<!-- Vertex:    71 -->
+<ellipse cx="318.28" cy="359.93" rx="3.91" ry="3.91" style="fill:rgb(204,255,178);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(321.78 365.99)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kosi Ulbl Irena</text>
+</g></g>
+<!-- Vertex:    72 -->
+<ellipse cx="841.80" cy="96.74" rx="3.91" ry="3.91" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(845.30 102.80)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Žagar Emil</text>
+</g></g>
+<!-- Vertex:    73 -->
+<ellipse cx="886.51" cy="125.02" rx="3.91" ry="3.91" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(890.01 131.08)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Jaklič Gašper</text>
+</g></g>
+<!-- Vertex:    74 -->
+<ellipse cx="381.22" cy="310.83" rx="3.91" ry="3.91" style="fill:rgb(204,255,178);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(384.72 316.89)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Fošner Maja</text>
+</g></g>
+<!-- Vertex:    75 -->
+<ellipse cx="47.40" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(0,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(50.90 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Šparl Petra</text>
+</g></g>
+<!-- Vertex:    76 -->
+<ellipse cx="844.06" cy="241.45" rx="3.91" ry="3.91" style="fill:rgb(216,255,79);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(847.56 247.51)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Romanovskij Valerij</text>
+</g></g>
+<!-- Vertex:    77 -->
+<ellipse cx="476.01" cy="35.48" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(479.51 41.55)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Peterin Iztok</text>
+</g></g>
+<!-- Vertex:    78 -->
+<ellipse cx="576.14" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(255,99,33);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(579.64 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Lepetić Marko</text>
+</g></g>
+<!-- Vertex:    79 -->
+<ellipse cx="851.91" cy="447.69" rx="3.91" ry="3.91" style="fill:rgb(216,242,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(855.41 453.75)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Korošec Peter</text>
+</g></g>
+<!-- Vertex:    80 -->
+<ellipse cx="600.95" cy="247.54" rx="3.91" ry="3.91" style="fill:rgb(216,216,216);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(604.45 253.60)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Klep Igor</text>
+</g></g>
+<!-- Vertex:    81 -->
+<ellipse cx="629.56" cy="282.70" rx="3.91" ry="3.91" style="fill:rgb(216,216,216);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(633.06 288.76)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Povh Janez</text>
+</g></g>
+<!-- Vertex:    82 -->
+<ellipse cx="598.75" cy="662.15" rx="3.91" ry="3.91" style="fill:rgb(219,147,112);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(602.25 668.21)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Oblak Polona</text>
+</g></g>
+<!-- Vertex:    83 -->
+<ellipse cx="414.97" cy="289.50" rx="3.91" ry="3.91" style="fill:rgb(204,255,178);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(418.47 295.57)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Fošner Ajda</text>
+</g></g>
+<!-- Vertex:    84 -->
+<ellipse cx="749.99" cy="476.55" rx="3.91" ry="3.91" style="fill:rgb(102,102,102);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(753.49 482.61)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Banič Iztok</text>
+</g></g>
+<!-- Vertex:    85 -->
+<ellipse cx="778.57" cy="94.14" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(782.07 100.20)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Perc Matjaž</text>
+</g></g>
+<!-- Vertex:    86 -->
+<ellipse cx="348.24" cy="599.43" rx="3.91" ry="3.91" style="fill:rgb(255,181,40);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(351.74 605.50)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Pohar Perme Maja</text>
+</g></g>
+<!-- Vertex:    87 -->
+<ellipse cx="852.17" cy="123.26" rx="3.91" ry="3.91" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(855.67 129.32)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Knez Marjetka</text>
+</g></g>
+<!-- Vertex:    88 -->
+<ellipse cx="285.95" cy="160.79" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(289.45 166.86)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Tepeh Aleksandra</text>
+</g></g>
+<!-- Vertex:    89 -->
+<ellipse cx="505.93" cy="278.22" rx="3.91" ry="3.91" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(509.43 284.28)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Fidler Sanja</text>
+</g></g>
+<!-- Vertex:    90 -->
+<ellipse cx="299.40" cy="458.82" rx="3.91" ry="3.91" style="fill:rgb(229,255,204);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(302.90 464.88)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Stupica Daša</text>
+</g></g>
+<!-- Vertex:    91 -->
+<ellipse cx="254.86" cy="348.42" rx="3.91" ry="3.91" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(258.36 354.48)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kutnar Klavdija</text>
+</g></g>
+<!-- Vertex:    92 -->
+<ellipse cx="478.26" cy="160.79" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(481.76 166.86)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kovše Matjaž</text>
+</g></g>
+<!-- Vertex:    93 -->
+<ellipse cx="266.50" cy="63.63" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(270.00 69.69)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Cabello Justo Sergio</text>
+</g></g>
+<!-- Vertex:    94 -->
+<ellipse cx="188.18" cy="368.68" rx="3.91" ry="3.91" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(191.68 374.74)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kovacs Istvan</text>
+</g></g>
+<!-- Vertex:    95 -->
+<ellipse cx="900.60" cy="99.81" rx="3.91" ry="3.91" style="fill:rgb(127,127,127);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(904.10 105.87)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vitrih Vito</text>
+</g></g>
+<!-- Vertex:    96 -->
+<ellipse cx="857.92" cy="476.55" rx="3.91" ry="3.91" style="fill:rgb(165,165,165);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(861.42 482.61)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Pasalic Enes</text>
+</g></g>
+<!-- Vertex:    97 -->
+<ellipse cx="263.67" cy="436.74" rx="3.91" ry="3.91" style="fill:rgb(229,255,204);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(267.17 442.80)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Bogovič Petra</text>
+</g></g>
+<!-- Vertex:    98 -->
+<ellipse cx="161.11" cy="402.71" rx="3.91" ry="3.91" style="fill:rgb(0,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(164.61 408.77)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kronegger Luka</text>
+</g></g>
+<!-- Vertex:    99 -->
+<ellipse cx="420.00" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(63,63,63);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(423.50 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Dikranian Dikran</text>
+</g></g>
+<!-- Vertex:   100 -->
+<ellipse cx="110.48" cy="160.61" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(113.98 166.67)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Hegenbarth Friedrich</text>
+</g></g>
+<!-- Vertex:   101 -->
+<ellipse cx="776.92" cy="156.27" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(780.42 162.33)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Gosak Marko</text>
+</g></g>
+<!-- Vertex:   102 -->
+<ellipse cx="332.81" cy="202.36" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(336.31 208.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Verret Gabriel</text>
+</g></g>
+<!-- Vertex:   103 -->
+<ellipse cx="684.05" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(30,249,163);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(687.55 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Bogataj David</text>
+</g></g>
+<!-- Vertex:   104 -->
+<ellipse cx="473.49" cy="662.15" rx="3.91" ry="3.91" style="fill:rgb(173,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(476.99 668.21)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Štrumbelj Erik</text>
+</g></g>
+<!-- Vertex:   105 -->
+<ellipse cx="849.26" cy="553.36" rx="3.91" ry="3.91" style="fill:rgb(229,229,229);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(852.76 559.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Zhang Cui</text>
+</g></g>
+<!-- Vertex:   106 -->
+<ellipse cx="97.73" cy="553.36" rx="3.91" ry="3.91" style="fill:rgb(38,38,38);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(101.23 559.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Stevanović Dragan</text>
+</g></g>
+<!-- Vertex:   107 -->
+<ellipse cx="227.97" cy="414.68" rx="3.91" ry="3.91" style="fill:rgb(229,255,204);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(231.47 420.74)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Lusa Lara</text>
+</g></g>
+<!-- Vertex:   108 -->
+<ellipse cx="127.15" cy="204.70" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(130.65 210.76)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Radulescu Vicentiu</text>
+</g></g>
+<!-- Vertex:   109 -->
+<ellipse cx="443.48" cy="218.15" rx="3.91" ry="3.91" style="fill:rgb(255,255,153);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(446.98 224.22)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kristan Matej</text>
+</g></g>
+<!-- Vertex:   110 -->
+<ellipse cx="287.17" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(191,191,191);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(290.67 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Milanič Martin</text>
+</g></g>
+<!-- Vertex:   111 -->
+<ellipse cx="315.56" cy="118.87" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(319.06 124.94)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vukašinović Vida</text>
+</g></g>
+<!-- Vertex:   112 -->
+<ellipse cx="365.56" cy="536.38" rx="3.91" ry="3.91" style="fill:rgb(255,217,188);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(369.06 542.44)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Šubelj Lovro</text>
+</g></g>
+<!-- Vertex:   113 -->
+<ellipse cx="749.99" cy="522.62" rx="3.91" ry="3.91" style="fill:rgb(102,102,102);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(753.49 528.69)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Črepnjak Matevž</text>
+</g></g>
+<!-- Vertex:   114 -->
+<ellipse cx="724.00" cy="662.15" rx="3.91" ry="3.91" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(727.50 668.21)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Chambers Olga</text>
+</g></g>
+<!-- Vertex:   115 -->
+<ellipse cx="131.15" cy="84.50" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(134.65 90.56)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Banakh Taras</text>
+</g></g>
+<!-- Vertex:   116 -->
+<ellipse cx="154.74" cy="97.15" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(158.24 103.21)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Zdomskyy Lyubomyr</text>
+</g></g>
+<!-- Vertex:   117 -->
+<ellipse cx="346.57" cy="140.28" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(350.07 146.34)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Lužar Borut</text>
+</g></g>
+<!-- Vertex:   118 -->
+<ellipse cx="492.43" cy="93.76" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(495.93 99.82)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Gologranc Tanja</text>
+</g></g>
+<!-- Vertex:   119 -->
+<ellipse cx="293.61" cy="360.00" rx="3.91" ry="3.91" style="fill:rgb(96,109,196);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(297.11 366.06)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Hujdurović Ademir</text>
+</g></g>
+<!-- Vertex:   120 -->
+<ellipse cx="705.67" cy="123.90" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(709.17 129.96)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Špenko Špela</text>
+</g></g>
+<!-- Vertex:   121 -->
+<ellipse cx="818.78" cy="106.26" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(822.28 112.32)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Szolnoki Attila</text>
+</g></g>
+<!-- Vertex:   122 -->
+<ellipse cx="311.77" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(255,217,188);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(315.27 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Žitnik Slavko</text>
+</g></g>
+<!-- Vertex:   123 -->
+<ellipse cx="539.96" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(89,89,89);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(543.46 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Pržulj Nataša</text>
+</g></g>
+<!-- Vertex:   124 -->
+<ellipse cx="452.75" cy="175.65" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(456.25 181.71)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Košmrlj Gašper</text>
+</g></g>
+<!-- Vertex:   125 -->
+<ellipse cx="296.68" cy="178.62" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(300.18 184.68)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Knor Martin</text>
+</g></g>
+<!-- Vertex:   126 -->
+<ellipse cx="372.41" cy="130.89" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(375.91 136.96)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Sotak Roman</text>
+</g></g>
+<!-- Vertex:   127 -->
+<ellipse cx="334.36" cy="158.32" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(337.86 164.38)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Andova Vesna</text>
+</g></g>
+<!-- Vertex:   128 -->
+<ellipse cx="233.38" cy="536.38" rx="3.91" ry="3.91" style="fill:rgb(191,191,191);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(236.88 542.44)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Hartinger Tatiana Romina</text>
+</g></g>
+<!-- Vertex:   129 -->
+<ellipse cx="100.51" cy="182.37" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(104.01 188.43)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Molica Bisci Giovanni</text>
+</g></g>
+<!-- Vertex:   130 -->
+<ellipse cx="80.78" cy="289.71" rx="3.91" ry="3.91" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(84.28 295.77)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Belardo Francesco</text>
+</g></g>
+<!-- Vertex:   131 -->
+<ellipse cx="397.46" cy="157.08" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(400.96 163.15)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Tratnik Niko</text>
+</g></g>
+<!-- Vertex:   132 -->
+<ellipse cx="62.56" cy="189.96" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(66.06 196.02)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Servadei Raffaella</text>
+</g></g>
+<!-- Vertex:   133 -->
+<ellipse cx="264.50" cy="141.03" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(268.00 147.09)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Gregor Petr</text>
+</g></g>
+<!-- Vertex:   134 -->
+<ellipse cx="159.64" cy="185.65" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(163.14 191.71)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Papageorgiou Nikolaos</text>
+</g></g>
+<!-- Vertex:   135 -->
+<ellipse cx="330.70" cy="116.27" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(334.20 122.33)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Dimitrov Darko</text>
+</g></g>
+<!-- Vertex:   136 -->
+<ellipse cx="804.01" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(216,242,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(807.51 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Eftimov Tome</text>
+</g></g>
+<!-- Vertex:   137 -->
+<ellipse cx="659.91" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(663.41 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kostenko Oleksiy</text>
+</g></g>
+<!-- Vertex:   138 -->
+<ellipse cx="31.87" cy="204.45" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(35.37 210.52)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Valdinoci Enrico 1974-</text>
+</g></g>
+<!-- Vertex:   139 -->
+<ellipse cx="372.10" cy="447.69" rx="3.91" ry="3.91" style="fill:rgb(63,63,63);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(375.60 453.75)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Shakhmatov Dmitri</text>
+</g></g>
+<!-- Vertex:   140 -->
+<ellipse cx="324.19" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(63,63,63);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(327.69 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Giordano Bruno Anna</text>
+</g></g>
+<!-- Vertex:   141 -->
+<ellipse cx="712.47" cy="40.41" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(715.97 46.47)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Extremera J.</text>
+</g></g>
+<!-- Vertex:   142 -->
+<ellipse cx="793.39" cy="262.87" rx="3.91" ry="3.91" style="fill:rgb(216,255,79);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(796.89 268.94)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Chen Xingwu</text>
+</g></g>
+<!-- Vertex:   143 -->
+<ellipse cx="67.09" cy="84.40" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(70.59 90.46)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Dydak Jerzy</text>
+</g></g>
+<!-- Vertex:   144 -->
+<ellipse cx="806.27" cy="140.97" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(809.77 147.03)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Szabó György 1950-</text>
+</g></g>
+<!-- Vertex:   145 -->
+<ellipse cx="469.94" cy="69.08" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(473.44 75.15)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Changat Manoj 1964-</text>
+</g></g>
+<!-- Vertex:   146 -->
+<ellipse cx="175.33" cy="53.38" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(178.83 59.44)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Tsaban Boaz 1973-</text>
+</g></g>
+<!-- Vertex:   147 -->
+<ellipse cx="864.58" cy="280.49" rx="3.91" ry="3.91" style="fill:rgb(216,255,79);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(868.08 286.55)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Han Maoan</text>
+</g></g>
+<!-- Vertex:   148 -->
+<ellipse cx="334.04" cy="132.48" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(337.54 138.54)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Král&#39; Daniel</text>
+</g></g>
+<!-- Vertex:   149 -->
+<ellipse cx="612.00" cy="447.69" rx="3.91" ry="3.91" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(615.50 453.75)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Teschl Gerald 1970-</text>
+</g></g>
+<!-- Vertex:   150 -->
+<ellipse cx="742.83" cy="62.12" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(746.33 68.18)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Wang Qingyun</text>
+</g></g>
+<!-- Vertex:   151 -->
+<ellipse cx="794.29" cy="35.99" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(797.79 42.05)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Chen Guanrong</text>
+</g></g>
+<!-- Vertex:   152 -->
+<ellipse cx="109.63" cy="257.87" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(113.13 263.93)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Ghergu Marius</text>
+</g></g>
+<!-- Vertex:   153 -->
+<ellipse cx="185.68" cy="219.09" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(189.18 225.15)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Aizicovici Sergiu 1948-</text>
+</g></g>
+<!-- Vertex:   154 -->
+<ellipse cx="196.35" cy="197.62" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(199.85 203.68)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Staicu Vasile 1960-</text>
+</g></g>
+<!-- Vertex:   155 -->
+<ellipse cx="122.46" cy="248.77" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(125.96 254.83)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Mihailescu Mihai</text>
+</g></g>
+<!-- Vertex:   156 -->
+<ellipse cx="143.47" cy="246.81" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(146.97 252.88)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Cîrstea Florica-Corina</text>
+</g></g>
+<!-- Vertex:   157 -->
+<ellipse cx="178.17" cy="237.92" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(181.67 243.98)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Motreanu Dumitru 1949-</text>
+</g></g>
+<!-- Vertex:   158 -->
+<ellipse cx="849.26" cy="599.43" rx="3.91" ry="3.91" style="fill:rgb(229,229,229);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(852.76 605.50)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Shi Jiangtao</text>
+</g></g>
+<!-- Vertex:   159 -->
+<ellipse cx="765.35" cy="35.20" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(768.85 41.27)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Ozer Mahmut</text>
+</g></g>
+<!-- Vertex:   160 -->
+<ellipse cx="341.34" cy="228.21" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(344.84 234.28)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Spiga Pablo 1977-</text>
+</g></g>
+<!-- Vertex:   161 -->
+<ellipse cx="179.59" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(191,191,191);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(183.09 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Cicalese Ferdinando</text>
+</g></g>
+<!-- Vertex:   162 -->
+<ellipse cx="97.73" cy="599.43" rx="3.91" ry="3.91" style="fill:rgb(38,38,38);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(101.23 605.50)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Ilić Aleksandar</text>
+</g></g>
+<!-- Vertex:   163 -->
+<ellipse cx="622.24" cy="211.85" rx="3.91" ry="3.91" style="fill:rgb(216,216,216);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(625.74 217.91)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Mccullough Scott</text>
+</g></g>
+<!-- Vertex:   164 -->
+<ellipse cx="118.80" cy="105.00" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(122.30 111.06)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Karimov Umed H.</text>
+</g></g>
+<!-- Vertex:   165 -->
+<ellipse cx="418.50" cy="122.04" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(422.00 128.11)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Rho Yoomi</text>
+</g></g>
+<!-- Vertex:   166 -->
+<ellipse cx="816.06" cy="67.08" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(819.56 73.15)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Wang Zhen Fizika</text>
+</g></g>
+<!-- Vertex:   167 -->
+<ellipse cx="94.44" cy="217.83" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(97.94 223.90)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Bonanno Gabriele</text>
+</g></g>
+<!-- Vertex:   168 -->
+<ellipse cx="857.92" cy="522.62" rx="3.91" ry="3.91" style="fill:rgb(165,165,165);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(861.42 528.69)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Wei Yongzhuang</text>
+</g></g>
+<!-- Vertex:   169 -->
+<ellipse cx="492.05" cy="447.69" rx="3.91" ry="3.91" style="fill:rgb(89,89,89);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(495.55 453.75)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Milenković Tijana</text>
+</g></g>
+<!-- Vertex:   170 -->
+<ellipse cx="737.18" cy="104.29" rx="3.91" ry="3.91" style="fill:rgb(255,132,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(740.68 110.35)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Chen Xiaojie</text>
+</g></g>
+<!-- Vertex:   171 -->
+<ellipse cx="430.76" cy="102.28" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(434.26 108.35)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Mollard Michel</text>
+</g></g>
+<!-- Vertex:   172 -->
+<ellipse cx="724.00" cy="599.43" rx="3.91" ry="3.91" style="fill:rgb(255,119,158);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(727.50 605.50)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Alarcón Antonio</text>
+</g></g>
+<!-- Vertex:   173 -->
+<ellipse cx="284.97" cy="197.99" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(288.47 204.05)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Grannell M.j.</text>
+</g></g>
+<!-- Vertex:   174 -->
+<ellipse cx="99.25" cy="239.96" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(102.75 246.02)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Afrouzi Ghasem A.</text>
+</g></g>
+<!-- Vertex:   175 -->
+<ellipse cx="133.84" cy="30.42" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(137.34 36.48)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Protasov Igor&#39; Vladimirovič</text>
+</g></g>
+<!-- Vertex:   176 -->
+<ellipse cx="133.59" cy="264.66" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(137.09 270.72)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Zhang Binlin</text>
+</g></g>
+<!-- Vertex:   177 -->
+<ellipse cx="444.15" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(89,89,89);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(447.65 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Malod-Dognin Noël</text>
+</g></g>
+<!-- Vertex:   178 -->
+<ellipse cx="47.80" cy="330.70" rx="3.91" ry="3.91" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(51.30 336.76)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Wang Jianfeng</text>
+</g></g>
+<!-- Vertex:   179 -->
+<ellipse cx="157.87" cy="346.47" rx="3.91" ry="3.91" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(161.37 352.53)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Huang Qiongxiang</text>
+</g></g>
+<!-- Vertex:   180 -->
+<ellipse cx="144.16" cy="294.33" rx="3.91" ry="3.91" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(147.66 300.39)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Li Marzi Enzo M.</text>
+</g></g>
+<!-- Vertex:   181 -->
+<ellipse cx="185.82" cy="179.54" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(189.32 185.60)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Gasiński Leszek</text>
+</g></g>
+<!-- Vertex:   182 -->
+<ellipse cx="165.09" cy="233.97" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(168.59 240.03)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Marano Salvatore Angelo</text>
+</g></g>
+<!-- Vertex:   183 -->
+<ellipse cx="185.39" cy="143.63" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(188.89 149.69)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vetro Calogero</text>
+</g></g>
+<!-- Vertex:   184 -->
+<ellipse cx="196.64" cy="164.05" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(200.14 170.12)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vetro Francesca</text>
+</g></g>
+<!-- Vertex:   185 -->
+<ellipse cx="564.10" cy="388.19" rx="3.91" ry="3.91" style="fill:rgb(255,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(567.60 394.25)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Malamud Mark Mihajlovič 1950-</text>
+</g></g>
+<!-- Vertex:   186 -->
+<ellipse cx="222.98" cy="662.15" rx="3.91" ry="3.91" style="fill:rgb(255,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(226.48 668.21)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Abramov Sergei A. 1946-</text>
+</g></g>
+<!-- Vertex:   187 -->
+<ellipse cx="106.77" cy="127.42" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(110.27 133.48)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Garity Dennis</text>
+</g></g>
+<!-- Vertex:   188 -->
+<ellipse cx="527.33" cy="97.24" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(530.83 103.30)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Basak Subhash C.</text>
+</g></g>
+<!-- Vertex:   189 -->
+<ellipse cx="603.25" cy="112.22" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(606.75 118.28)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Vukičević Damir</text>
+</g></g>
+<!-- Vertex:   190 -->
+<ellipse cx="239.16" cy="100.06" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(242.66 106.13)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Devos Matt</text>
+</g></g>
+<!-- Vertex:   191 -->
+<ellipse cx="95.73" cy="370.19" rx="3.91" ry="3.91" style="fill:rgb(0,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(99.23 376.26)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Simić Slobodan 1948-</text>
+</g></g>
+<!-- Vertex:   192 -->
+<ellipse cx="290.33" cy="119.30" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(293.83 125.36)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Dvořák Zdeněk</text>
+</g></g>
+<!-- Vertex:   193 -->
+<ellipse cx="587.22" cy="89.58" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(590.72 95.64)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Balaban Alexandru T.</text>
+</g></g>
+<!-- Vertex:   194 -->
+<ellipse cx="266.17" cy="81.68" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(269.67 87.74)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Kawarabayashi Ken-Ichi</text>
+</g></g>
+<!-- Vertex:   195 -->
+<ellipse cx="713.55" cy="71.56" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(717.05 77.62)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Alaminos J.</text>
+</g></g>
+<!-- Vertex:   196 -->
+<ellipse cx="238.82" cy="53.52" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(242.32 59.59)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Giannopoulos Panos</text>
+</g></g>
+<!-- Vertex:   197 -->
+<ellipse cx="260.95" cy="35.71" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(264.45 41.77)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Knauer Christian</text>
+</g></g>
+<!-- Vertex:   198 -->
+<ellipse cx="295.15" cy="49.58" rx="3.91" ry="3.91" style="fill:rgb(255,216,242);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(298.65 55.65)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Rote Günter</text>
+</g></g>
+<!-- Vertex:   199 -->
+<ellipse cx="533.45" cy="222.17" rx="3.91" ry="3.91" style="fill:rgb(216,216,216);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(536.95 228.23)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Helton J. William 1944-</text>
+</g></g>
+<!-- Vertex:   200 -->
+<ellipse cx="473.49" cy="599.43" rx="3.91" ry="3.91" style="fill:rgb(255,10,155);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(476.99 605.50)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Mandelzweig V. B.</text>
+</g></g>
+<!-- Vertex:   201 -->
+<ellipse cx="700.65" cy="35.56" rx="3.91" ry="3.91" style="fill:rgb(255,0,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(704.15 41.62)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Villena A. R.</text>
+</g></g>
+<!-- Vertex:   202 -->
+<ellipse cx="475.96" cy="127.86" rx="3.91" ry="3.91" style="fill:rgb(255,0,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(479.46 133.92)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Rall Douglas F.</text>
+</g></g>
+<!-- Vertex:   203 -->
+<ellipse cx="578.27" cy="160.68" rx="3.91" ry="3.91" style="fill:rgb(127,255,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(581.77 166.74)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Plavšić Dejan</text>
+</g></g>
+<!-- Vertex:   204 -->
+<ellipse cx="138.20" cy="110.36" rx="3.91" ry="3.91" style="fill:rgb(0,153,0);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(141.70 116.42)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Zaicev Mikhail</text>
+</g></g>
+<!-- Vertex:   205 -->
+<ellipse cx="443.96" cy="476.88" rx="3.91" ry="3.91" style="fill:rgb(204,255,255);stroke:rgb(102,0,0);stroke-width:0.15;"/>
+<g transform="translate(447.46 482.95)">
+<g transform="rotate(30.00)">
+<text x="0.00" y="0.00" style="font-family:Arial Unicode MS;font-weight: bold;font-size:6px;fill:rgb(173,0,0)">Guterman Aleksandr Emilevič 1975-</text>
+</g></g>
+</g>         <!-- Layer Network -->
+</svg>
