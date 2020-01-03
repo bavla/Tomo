@@ -258,7 +258,7 @@ C2
 > T <- read.csv("AI.txt",colClasses=c("character"))
 > Encoding(T$ime) <- "UTF-8"
 
-> Ime <- List()
+> Ime <- list()
 > Ime[T$koda] <- str_to_title(trimws(T$ime))
 > Anames <- as.character(Ime[aId])
 > levels(AId) <- Anames
