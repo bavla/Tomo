@@ -355,6 +355,9 @@ C2
 > L2 <- levels(mz2)
 > for(i in 1:length(L2)) cat(i,'-"',L2[i],'"; ',sep=""); cat("\n") 
 1-"1.00.00"; 2-"1.01.00"; 3-"1.01.01"; 4-"1.01.02"; 5-"1.01.03"; ... ; 178-"7.02.00"; 179-"NA.NA.NA"; 
+
+> SI <- as.integer(substr(aId,1,1)!="A")
+> vector2clu(SI,"SI.clu")
 ```
  
 
