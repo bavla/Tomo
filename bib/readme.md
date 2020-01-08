@@ -275,7 +275,7 @@ C2
 
 For the `length(levels(AId))` we get 4935 instead of expected 4947.
 
-I decided to work with authors IDs and manually replace them in WA.net with the corresponding names.
+I decided to work with authors IDs and manually replace them in `WAc.net` with the corresponding names from `Author.nam`, resulting in `WAu.net`.
 
 ```
 
@@ -301,8 +301,13 @@ I decided to work with authors IDs and manually replace them in WA.net with the 
 > Ime <- list()
 > Ime[T$koda] <- str_to_title(trimws(T$ime))
 > Anames <- as.character(Ime[aId])
-> levels(AId) <- Anames
-> uv2net(WId,AId,Net="WA.net",twomode=TRUE)
+> uv2net(WId,AId,Net="WAc.net",twomode=TRUE)
+
+> n <- length(wId); m <- length(Anames)
+> net <- file("Author.nam","w")
+> cat("% Author names",date(),"\n*vertices",n+m,n,"\n",file=net)
+> for(i in 1:m) cat(i+n,' "',Anames[i],'"\n',sep="",file=net)
+> close(net)
 
 > Z <- read.csv("AF.txt",colClasses=c("character"))
 > mZ0 <- substr(Z$POD1,1,1)
