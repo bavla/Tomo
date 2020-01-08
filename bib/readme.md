@@ -241,7 +241,47 @@ C2
 > for(i in 1:length(L2)) cat(i,'-"',L2[i],'"; ',sep=""); cat("\n") 
 1-"1.00.00"; 2-"1.01.00"; 3-"1.01.01"; 4-"1.01.02"; 5-"1.01.03"; ... ; 178-"7.02.00"; 179-"NA.NA.NA"; 
 ```
- 
+
+## Another problem / January 2020
+
+```
+...
+> AId <- factor(trimws(X$AVTOR))
+> aId <- levels(AId)
+> WId <- factor(trimws(X$LIST.ID))
+> wId <- levels(WId)
+> T <- read.csv("AI.txt",colClasses=c("character"))
+> Encoding(T$ime) <- "UTF-8"
+> Ime <- list()
+> Ime[T$koda] <- str_to_title(trimws(T$ime))
+> Anames <- as.character(Ime[aId])
+> length(AId)
+[1] 20106
+> length(aId)
+[1] 4947
+> length(Ime)
+[1] 5088
+> length(Anames)
+[1] 4947
+> length(levels(AId))
+[1] 4947
+> a <- factor(Anames)
+> length(a)
+[1] 4947
+> levels(AId) <- Anames
+> length(levels(AId))
+[1] 4935
+```
+
+For the `length(levels(AId))` we get 4935 instead of expected 4947.
+
+I decided to work with authors IDs and manually replace them in WA.net with the corresponding names.
+
+```
+
+```
+
+
 ## Converting the data into Pajek files / essential code
 
 ```
